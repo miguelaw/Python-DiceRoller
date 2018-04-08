@@ -1,4 +1,4 @@
-# Python-DiceRoller (Python)
+# Python-Dice Roller (Python)
 
 ## Description
 
